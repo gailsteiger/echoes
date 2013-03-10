@@ -1,1 +1,1 @@
-$(function(){PlayerApp.Templates.load("../templates/templates.html",function(){function n(){e.execute()}var e=jasmine.getEnv();e.updateInterval=1e3;var t=new jasmine.HtmlReporter;e.addReporter(t),e.specFilter=function(e){return t.specFilter(e)},n()})});
+$(function(){PlayerApp.Templates.load("../templates/templates.html",function(){function n(){e.execute()}var e=jasmine.getEnv();e.updateInterval=1e3;var t=new jasmine.HtmlReporter;e.addReporter(t),e.specFilter=function(e){return t.specFilter(e)},n()})})

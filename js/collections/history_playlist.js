@@ -1,1 +1,1 @@
-define(["jquery","underscore","backbone","models/youtube_item","utils","safe"],function(e,t,n,r,i,s){var o=n.Collection.extend({model:r,safe:"historyPlaylist",queue:function(e){this.add(e)}});return o});
+define(["jquery","underscore","backbone","models/youtube_item","utils","safe"],function(e,t,n,r,i,s){var o=n.Collection.extend({model:r,safe:"historyPlaylist",queue:function(e){this.add(e)}});return o})

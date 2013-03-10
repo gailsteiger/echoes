@@ -1,1 +1,1 @@
-require(["jquery","bootstrap","safe","views/player_app","models/player_app","routers/app_router"],function(e,t,n,r,i,s){var o=new i,u=new r({model:o}),a=new s({model:o});Backbone.history.start()});
+require(["jquery","bootstrap","safe","views/player_app","models/player_app","routers/app_router"],function(e,t,n,r,i,s){var o=new i,u=new r({model:o}),a=new s({model:o});Backbone.history.start()})
