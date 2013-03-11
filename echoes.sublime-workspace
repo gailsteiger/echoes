@@ -1,0 +1,2146 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dropd",
+				"dropdown-menu"
+			],
+			[
+				"slide",
+				"slideDownFromTop"
+			],
+			[
+				"tog",
+				"toggleBackdrop"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"class",
+				"classState"
+			],
+			[
+				"boot",
+				"bootstrap-zepto"
+			],
+			[
+				"refre",
+				"refreshItems"
+			],
+			[
+				"Coll",
+				"CollaborationItem"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"stud",
+				"studyclassId"
+			],
+			[
+				"Col",
+				"CollaborationItem"
+			],
+			[
+				"Work",
+				"WorkspaceModel"
+			],
+			[
+				"flex",
+				"flex-container-vertical"
+			],
+			[
+				"Conten",
+				"ContentToolbarView"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"contai",
+				"container"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"D",
+				"DictionaryModel"
+			],
+			[
+				"Dialo",
+				"DialogModel"
+			],
+			[
+				"Dia",
+				"DialogModel"
+			],
+			[
+				"render",
+				"renderTocByToc"
+			],
+			[
+				"app",
+				"appInitData"
+			],
+			[
+				"modu",
+				"moduleName"
+			],
+			[
+				"cur",
+				"currentResource"
+			],
+			[
+				"card",
+				"cardView"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"bacgr",
+				"background"
+			],
+			[
+				"show",
+				"showCourseView"
+			],
+			[
+				"back",
+				"beforeSend(xhr) - backbone.js"
+			],
+			[
+				"login",
+				"loginTemplate"
+			],
+			[
+				"Form",
+				"FormView"
+			],
+			[
+				"init",
+				"initialize()"
+			],
+			[
+				"Vi",
+				"BaseView"
+			],
+			[
+				"b",
+				"bd	Backbone requirejs Module definition"
+			],
+			[
+				"func",
+				"isFunction"
+			],
+			[
+				"Base",
+				"BaseController"
+			],
+			[
+				"com",
+				"common"
+			],
+			[
+				"student",
+				"studentRouter"
+			],
+			[
+				"exclu",
+				"excludedEvent"
+			],
+			[
+				"dial",
+				"dialogParams"
+			],
+			[
+				"Appl",
+				"ApplicationEvents"
+			],
+			[
+				"open",
+				"openDialogsArray"
+			],
+			[
+				"isValid",
+				"isValidAiModel"
+			],
+			[
+				"dialo",
+				"dialogId"
+			],
+			[
+				"emoti",
+				"emoticonsUrl"
+			],
+			[
+				"modal",
+				"modal-header"
+			],
+			[
+				"dia",
+				"dialogParams"
+			],
+			[
+				"method",
+				"methods"
+			],
+			[
+				"loca",
+				"locationX"
+			],
+			[
+				"train",
+				"trainPosition"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"loc",
+				"localStorage"
+			],
+			[
+				"tra",
+				"trainScroller"
+			],
+			[
+				"scrol",
+				"scrollerController"
+			],
+			[
+				"toolbar",
+				"toolbarConfiguration"
+			],
+			[
+				"tol",
+				"toolbarConfiguration"
+			],
+			[
+				"toolbcon",
+				"toolbarConfiguration"
+			],
+			[
+				"onComm",
+				"onCommentDeleted"
+			],
+			[
+				"getGal",
+				"getGalleryItemName"
+			],
+			[
+				"getAp",
+				"getApproveState"
+			],
+			[
+				"ai",
+				"ai-modes"
+			],
+			[
+				"getga",
+				"getGalleryItemData"
+			],
+			[
+				"getGAlle",
+				"getGalleryItemData"
+			],
+			[
+				"togg",
+				"toggleCommentPlaceholder"
+			],
+			[
+				"attr",
+				"attribute"
+			],
+			[
+				"dis",
+				"disabledAttributes"
+			],
+			[
+				"learnin",
+				"learningActivityArray"
+			],
+			[
+				"wid",
+				"widgetArray"
+			],
+			[
+				"marginlef",
+				"margin-left"
+			],
+			[
+				"phr",
+				"phrasesLabel"
+			],
+			[
+				"Rich",
+				"RichtextEditorView"
+			],
+			[
+				"mytim",
+				"mytimeForm"
+			],
+			[
+				"LA",
+				"LAwrapper"
+			],
+			[
+				"inti",
+				"initialize"
+			],
+			[
+				"left",
+				"leftLimit"
+			],
+			[
+				"activ",
+				"activity-item"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"navIt",
+				"navItemDisabledClassName"
+			],
+			[
+				"segme",
+				"segmentId"
+			],
+			[
+				"navig",
+				"navigation"
+			],
+			[
+				"Acti",
+				"ActivityItemGalleryModel"
+			],
+			[
+				"currentI",
+				"currentItem"
+			],
+			[
+				"text",
+				"textarea-canvas"
+			],
+			[
+				"isPri",
+				"isPrivateComment"
+			],
+			[
+				"Comme",
+				"CommentsPanelView"
+			],
+			[
+				"baclgrou",
+				"background-color"
+			],
+			[
+				"tool",
+				"toolbarButtons"
+			],
+			[
+				"Comm",
+				"CommentsList"
+			],
+			[
+				"Ac",
+				"ActivityItemModel"
+			],
+			[
+				"segmen",
+				"segmentEndTime"
+			],
+			[
+				"getNa",
+				"getNavigationBySegment"
+			],
+			[
+				"displ",
+				"displayName"
+			],
+			[
+				"action",
+				"actionType"
+			],
+			[
+				"ac",
+				"activeClass"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"selc",
+				"selector"
+			],
+			[
+				"acton",
+				"actionType"
+			],
+			[
+				"curren",
+				"currentTarget"
+			],
+			[
+				"selec",
+				"selector"
+			],
+			[
+				"sort",
+				"sort-by-student-name"
+			],
+			[
+				"sortB",
+				"sort-by-activity-name"
+			],
+			[
+				"fil",
+				"filterType"
+			],
+			[
+				"handl",
+				"handleGalleryFilter"
+			],
+			[
+				"current",
+				"currentModule"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"route",
+				"routeToGallery"
+			],
+			[
+				"gallery",
+				"galleryTemplate"
+			],
+			[
+				"active",
+				"activePageMap"
+			],
+			[
+				"contain",
+				"containerSelector"
+			],
+			[
+				"button",
+				"buttonTemplate"
+			],
+			[
+				"get",
+				"getWidgetHtmlString"
+			],
+			[
+				"dr",
+				"dropdownTemplate"
+			],
+			[
+				"widgets",
+				"widgetsHtml"
+			],
+			[
+				"ind",
+				"index"
+			],
+			[
+				"ha",
+				"handleClick"
+			],
+			[
+				"widget",
+				"widgetHTML"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"t",
+				"tdata	tdata"
+			],
+			[
+				"na",
+				"navigationLocation"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"eve",
+				"eventName"
+			],
+			[
+				"appl",
+				"applicationHeader"
+			],
+			[
+				"ad",
+				"addRow"
+			],
+			[
+				"add",
+				"addBookRecord"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 153284,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/requirejs-build.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"start",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"gitstatu",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git:ad",
+				"Git: Add Current File"
+			],
+			[
+				"gitpul",
+				"Git: Pull"
+			],
+			[
+				"gitpu",
+				"Git: Pull"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"gitcommi",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"stop",
+				"SublimeServer: Stop SublimeServer"
+			],
+			[
+				"git bran",
+				"Git: Change Branch"
+			],
+			[
+				"git br",
+				"Git: Change Branch"
+			],
+			[
+				"pac ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pac dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pac lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pac enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"eme remo",
+				"Emmet: Remove Tag"
+			],
+			[
+				"emme remo",
+				"Emmet: Remove Tag"
+			],
+			[
+				"pac ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac list",
+				"Package Control: List Packages"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"error",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"sript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pac remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"export",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"script",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"convert tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"converttabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"con tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"emmetre",
+				"Emmet: Remove Tag"
+			],
+			[
+				"match",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"sy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn jasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"expor",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"pac inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pacrrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pacins",
+				"Package Control: Install Package"
+			],
+			[
+				"synpro",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"todo",
+				"Show TODOs: Open files only"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"pains",
+				"Package Control: Install Package"
+			],
+			[
+				"palis",
+				"Package Control: List Packages"
+			],
+			[
+				"pa lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"contabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"con tb",
+				"Package Control: Create Binary Package File"
+			],
+			[
+				"conver tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"syn javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synjscs",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"pac remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"synjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syn jaasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synjascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn jascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"convertabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conver tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conve tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"syn javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lin err",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pac cont",
+				"Package Control: Discover Packages"
+			],
+			[
+				"syn jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"conver ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pac ene",
+				"Package Control: Enable Package"
+			],
+			[
+				"serverst",
+				"SublimeServer: Restart SublimeServer"
+			],
+			[
+				"snip objec",
+				"Snippet: Object Value JS"
+			],
+			[
+				"snip ob",
+				"Snippet: Object Value JS"
+			],
+			[
+				"snipeobj",
+				"Snippet: Object Value JS"
+			],
+			[
+				"snip:",
+				"Snippet: Prototype"
+			],
+			[
+				"syn mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pac re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"scheme",
+				"Schemr: BernatColorScheme"
+			],
+			[
+				"sche",
+				"Schemr: Finder"
+			],
+			[
+				"sce",
+				"Schemr: Espresso Aqua"
+			],
+			[
+				"goto",
+				"Goto Symbol : List symbols"
+			],
+			[
+				"pac en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pac emo",
+				"Package Control: Remove Package"
+			],
+			[
+				"edimod",
+				"AMD Module Editor: Edit Modules"
+			],
+			[
+				"conr tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"pack ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ftp b",
+				"SFTP: Browse Server…"
+			],
+			[
+				"pre",
+				"Preferences: Settings - User"
+			],
+			[
+				"conve tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"con tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"coner tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"forma",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"convert ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn les",
+				"Set Syntax: LESS"
+			],
+			[
+				"syn cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn le",
+				"Set Syntax: LESS"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"server:",
+				"SublimeServer: Manage SublimeServer Settings"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"synt js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"convertab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"syjasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ftp br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ftpbr",
+				"SFTP: Browse Server…"
+			],
+			[
+				"conv ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"errors",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"symbol",
+				"Goto Symbol : List symbols"
+			],
+			[
+				"wrao",
+				"Word Wrap: Toggle"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 369.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/oren/GitHub/echoes/css/style.css",
+		"/C/oren/GitHub/echoes/index.html",
+		"/C/oren/GitHub/echoes/js/views/youtube_playlists_provider.js",
+		"/C/oren/GitHub/echoes/js/collections/youtube_playlists_provider.js",
+		"/C/oren/GitHub/echoes/js/views/user_profile_manager.js",
+		"/C/oren/GitHub/echoes/js/models/youtube_profile_service.js",
+		"/C/oren/GitHub/echoes/CNAME",
+		"/C/oren/GitHub/echoes/test.html",
+		"/C/oren/GitHub/echoes/build.txt",
+		"/C/oren/GitHub/echoes/css/modules/bootstrap-dropdown-animated.less",
+		"/C/oren/GitHub/echoes/css/modules.less",
+		"/C/oren/GitHub/echoes/js/collections/youtube_search_results.js",
+		"/C/oren/GitHub/echoes/js/collections/history_playlist.js",
+		"/C/oren/GitHub/echoes/js/collections/youtube_playlists_results.js",
+		"/C/oren/SublimeText2/Data/Packages/User/Modific.sublime-settings",
+		"/C/oren/SublimeText2/Data/Packages/GitGutter/README.md",
+		"/C/Users/oren.farchi/Desktop/teach-li.css",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/UserPage/templates/teacherPageTemplate.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/TeacherLibrary/TeacherLibraryView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/css/modules/TeacherLibrary.css",
+		"/C/oren/SublimeText2/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/oren/SublimeText2/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Dialog/Dialog.js",
+		"/C/Users/oren.farchi/Desktop/patches/dropdown.patch",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Dialog/templates/eyesOnTeacher.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/css/modules/Dialog.css",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/css/bootstrap.css",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/css/modules.css",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/css/bootstrap-override.css",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/libs/bootstrap/bootstrap.js",
+		"/C/oren/SublimeText2/Data/Packages/Jimbly's Clipboard History/Default (Windows).sublime-keymap",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/ContentToolbar/ContentToolbarView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/css/modules/ContentToolbar.css",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/ContentToolbar/templates/TOCLessonToolbarTemplate.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/ContentToolbar/templates/TOCItemToolbarTemplate.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/app/main.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/index.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Dialog/templates/dialog_template_with_buttons.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/UserPage/UserPageView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/common/data/T2KDal.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/fileSystem/config.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Toolbar/templates/user_profile.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/fileSystem/main.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/config/pages.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Course/CourseView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/models/CourseNavigation/CourseModel.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/CourseNavigation/templates/LO.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/CourseNavigation/RowView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/CourseNavigation/CourseNavigationView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/ContentPane/ContentPaneView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/ApplicationView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/ContentPane/ContentDetailsView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/ContentPane/players/DLContentPlayer.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/models/ApplicationModel.js",
+		"/C/oren/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/app/appRouter.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/admin.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/models/ActiveLessons/ActiveLessonsModel.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/models/GlobalUserState/GlobalUserState.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Workspace/WorkspaceView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/models/Workspace/WorkspaceModel.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Workspace/Collaboration/CollaborationToolbar.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Workspace/WorkspaceItemView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/css/icon.css",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Workspace/templates/workspace.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Workspace/templates/workspaceItem.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Toolbar/ToolbarView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Workspace/Collaboration/CollaborationView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Workspace/templates/collaborationItem.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/app/config.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/models/CometModel/CometModel.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/libs/require/require.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/libs/require/text-latest.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/libs/require/text.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/libs/require/require-latest.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/TeacherLibrary/templates/AssignToClassDialogTemplate.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/css/modules/Workspace.css",
+		"/C/oren/SublimeText2/Data/Packages/SublimeWebInspector-master/Default (Windows).sublime-keymap",
+		"/C/oren/SublimeText2/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Workspace/Collaboration/CollaborationItem.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/modules/ClassPage/ClassPage.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/ClassPage/ClassPageView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Notifications/templates/notifications.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/css/modules/Collaboration.css",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Notifications/Notifications.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/common/utils/utils.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Workspace/CollaborationView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Workspace/CollapseView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/CourseNavigation/templates/Lesson.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/images/sec_placeholder.jpg",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/libs/backbone/backbone.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/libs/davinci/BaseView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Toolbar/TitleView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Toolbar/MessageArea.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Course/templates/CourseView.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/models/AppInitData/AppInitData.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/models/CourseNavigation/StudyClassStatesCollection.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/libs/davinci/davinci.js",
+		"/C/oren/SublimeText2/Data/Packages/LESS-build/readme.md",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/css/modules/Toolbar.css",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/css/style.css",
+		"/C/oren/SublimeText2/Data/Packages/LESS-build/dotless-acknowledgements.txt",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/models/Dictionary/DictionaryModel.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/libs/jquery/jquery-1.8.3.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/config/services.js",
+		"/C/Users/oren.farchi/Desktop/rest.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/common/providers/CometNotifier.js",
+		"/D/t2kdev/dtp/lms/projects/backend/resources/dictionaries/dictionary.en_US.properties",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/models/Dialog/DialogModel.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/libs/org/cometd.js",
+		"/C/oren/SublimeText2/Data/Packages/JavaScript/JavaScript.tmLanguage",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/models/ClassPage/CourseModel.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/config/modules.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Toolbar/templates/toolbar_template.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/common/utils/dictionary.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/HomePage/HomePageView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/libs/underscore/underscore.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/config/dialogsConfig.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Dialog/DialogView.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Dialog/templates/dialog_template_with_HTML_content.html",
+		"/C/oren/SublimeText2/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/config/dialogEvents.js",
+		"/C/oren/SublimeText2/Data/Packages/Helios/Helios.sublime-settings",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/models/CourseNavigation/CourseItemCollection.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Dialog/templates/header/dialog_header_with_close.html",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/models/CourseNavigation/SequenceModel.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/models/CourseNavigation/CourseItemModel.js",
+		"/D/t2kdev/dtp/lms/projects/backend/dtp-lms-backend-war/src/main/webapp/js/views/Dialog/templates/header/dialog_header_without_close.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"*.js, ,D:\\t2kdev\\dtp\\lms\\projects\\backend\\dtp-lms-backend-war\\src\\main\\webapp\\js\\views",
+			"<open folders>,,*.js,<open folders>",
+			"<open folders>",
+			"C:\\oren\\SublimeText2\\Data\\Packages\\JavaScript",
+			"<open folders>,",
+			"<open folders>, *.js",
+			"<open folders>,",
+			"<open folders>,<open folders>",
+			"<open folders>",
+			"D:\\t2k\\lms\\projects\\dtp-war\\src\\main\\webapp\\@@@lms.version@@@\\student\\js",
+			"D:\\t2k\\lms\\projects\\dtp-war\\src\\main\\webapp\\@@@lms.version@@@,*.js,*.jsp",
+			"D:\\t2k\\lms\\projects\\dtp-war\\src\\main\\webapp\\@@@lms.version@@@",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"padding: 3px 20px",
+			"padding: 3px 20px;",
+			"\\",
+			"this.get(this.played)",
+			"SchoolLibraryItemView",
+			"getThumbnailUrl",
+			"isInTeacherLib",
+			"my-library-container",
+			"isUpdated",
+			"getThumbnailUrl",
+			"lib-thumbnail-container",
+			"toggleMenu",
+			"menu-button",
+			"slideDownFromTop",
+			"3",
+			"loading-progress",
+			"loading",
+			"#4E4E4E",
+			"top",
+			"2",
+			"all",
+			"student-menu",
+			"course-presenter-toolbar",
+			"toggleBackdrop",
+			"configureStyle",
+			"slideup",
+			"menu-container",
+			"contentplayerView",
+			"onSelectedLOClick",
+			"deselectAllSequences",
+			"renderSelectedSequence",
+			"expandSequences",
+			"sequence-container",
+			"renderSelected",
+			"renderSelectedSequence",
+			"selectCourseItem",
+			"dragOverEvent",
+			"lesson",
+			"START_LESSON",
+			"globalUserState.get('rtcm')",
+			"originalEvent",
+			"guides",
+			"word",
+			"collaborationList",
+			"views",
+			"this.views",
+			".views",
+			"views",
+			"this.views.",
+			"ClassPage",
+			"this.views.",
+			"views",
+			"CollaborationView",
+			"Davinci.App.on",
+			"dragLeaveEvent",
+			"_displayTimer",
+			"dialog",
+			"DialogView",
+			"\\{([a-z]*)\\}",
+			"{[a-z]}",
+			"div",
+			"1",
+			"items",
+			"v",
+			"workspaceTemplate",
+			"<img",
+			"WorkspaceView",
+			"stopCurrentViewListeners",
+			"stopListening",
+			"selectedToolbar",
+			"resourceAttrs",
+			"WorkspaceView",
+			"items",
+			"			\n",
+			"article",
+			"showCourseView",
+			"toolbarView",
+			"activeLessonPath",
+			"this.get('appInitData')",
+			"DialogModel",
+			"moduleName",
+			"modules",
+			"localhost",
+			"getCoursePosition",
+			"getStudyClassNameByCourseId",
+			"getCoursePresenter",
+			"model",
+			"templates/toolbar_template.html",
+			"Navbar",
+			"navBar",
+			"LocaleModel",
+			"LocalManager",
+			"DictionaryModel",
+			"CourseModel",
+			"delegateEvents",
+			"a",
+			"*",
+			".btn",
+			"this",
+			"../images",
+			"img",
+			"dialog",
+			"modules/dialog",
+			"    ",
+			"icon-back",
+			"ookie",
+			"renderTOC",
+			"dispose(",
+			".fetch(",
+			".fetch",
+			"fetch",
+			"this.get('classesCollection').fet",
+			"setModelParentId",
+			"lesson",
+			"lessons",
+			"createToc",
+			"classcourses",
+			"courseView",
+			"user_data",
+			"teacherPage",
+			"teacherPa",
+			"teacherpage",
+			"Backbone.BaseView.define",
+			"disableViews",
+			"onResourceChange",
+			"white; \n  	&:hover",
+			"white; \n  	&:",
+			"white; \n  	"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\" + \\1 + \"",
+			"../../images",
+			"\\t",
+			"this.pageManager",
+			"app",
+			"controller.app",
+			"Davinci._.",
+			"Davinci",
+			"Davinci.Controller",
+			"Davinci.Controller\n	'underscore',\n	'backbone',",
+			"'davinci',\n	'underscore',\n	'backbone',",
+			"'jquery',\n	'underscore',\n	'backbone',",
+			"'jquery',\n    'underscore',\n    'backbone',",
+			"Davinci",
+			"Davinci.View",
+			"'svn'",
+			"'hg'",
+			"blackmamba-gray",
+			"images/blackmamba-edit",
+			"onPostNewComment",
+			"getCommentData",
+			"resetEditor",
+			"true",
+			"trainScrollerView",
+			"data",
+			"\\t",
+			"items",
+			"\\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 153284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143761,
+								143761
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": false,
+								"box-model": true,
+								"box-sizing": false,
+								"compatible-vendor-prefixes": false,
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"text-indent": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": false
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"smarttabs": false,
+								"sub": true,
+								"trailing": false,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+								"css",
+								"java",
+								"python"
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 1342944.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 141.0
+	},
+	"output.git":
+	{
+		"height": 158.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 143.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"indehtml",
+				"index.html"
+			],
+			[
+				"s",
+				"css/style.css"
+			],
+			[
+				"viplaypro",
+				"js/views/youtube_playlists_provider.js"
+			],
+			[
+				"playprovi",
+				"js/collections/youtube_playlists_provider.js"
+			],
+			[
+				"profile",
+				"js/views/user_profile_manager.js"
+			],
+			[
+				"profserv",
+				"js/models/youtube_profile_service.js"
+			],
+			[
+				"stylecs",
+				"css/style.css"
+			],
+			[
+				"styl",
+				"css/style.css"
+			],
+			[
+				"style",
+				"css/style.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"module",
+				"css/modules.less"
+			],
+			[
+				"shcoolibvie",
+				"js/views/TeacherLibrary/SchoolLibraryItemView.js"
+			],
+			[
+				"tealibra",
+				"css/modules/TeacherLibrary.css"
+			],
+			[
+				"teachlibra",
+				"css/modules/TeacherLibrary.css"
+			],
+			[
+				"library",
+				"js/views/TeacherLibrary/templates/MyLibraryItemTemplate.html"
+			],
+			[
+				"teacherpa",
+				"css/modules/TeacherPage.css"
+			],
+			[
+				"userphtml",
+				"js/views/Toolbar/templates/user_profile.html"
+			],
+			[
+				"boo",
+				"css/bootstrap-override.css"
+			],
+			[
+				"dialog",
+				"js/views/Dialog/Dialog.js"
+			],
+			[
+				"boocss",
+				"css/bootstrap.css"
+			],
+			[
+				"bootjs",
+				"js/libs/bootstrap/bootstrap.js"
+			],
+			[
+				"contento",
+				"js/views/ContentToolbar/ContentToolbarView.js"
+			],
+			[
+				"contetocss",
+				"css/modules/ContentToolbar.css"
+			],
+			[
+				"modules",
+				"css/modules.css"
+			],
+			[
+				"indeht",
+				"index.html"
+			],
+			[
+				"dialojs",
+				"js/views/Dialog/Dialog.js"
+			],
+			[
+				"userprofi",
+				"js/views/Toolbar/templates/user_profile.html"
+			],
+			[
+				"toclesstootte",
+				"js/views/ContentToolbar/templates/TOCLessonToolbarTemplate.html"
+			],
+			[
+				"userprofie",
+				"js/views/Toolbar/templates/user_profile.html"
+			],
+			[
+				"main",
+				"js/app/main.js"
+			],
+			[
+				"config",
+				"fileSystem/config.js"
+			],
+			[
+				"t2kdal",
+				"js/common/data/T2KDal.js"
+			],
+			[
+				"userpage",
+				"js/views/UserPage/UserPageView.js"
+			],
+			[
+				"courmodel",
+				"js/models/CourseNavigation/CourseModel.js"
+			],
+			[
+				"courmode",
+				"js/models/CourseNavigation/CourseModel.js"
+			],
+			[
+				"rowview",
+				"js/views/CourseNavigation/RowView.js"
+			],
+			[
+				"counaview",
+				"js/views/CourseNavigation/CourseNavigationView.js"
+			],
+			[
+				"dialogjs",
+				"js/views/Dialog/Dialog.js"
+			],
+			[
+				"dlcontentpla",
+				"js/views/ContentPane/players/DLContentPlayer.js"
+			],
+			[
+				"contentdetailsview",
+				"js/views/ContentPane/ContentDetailsView.js"
+			],
+			[
+				"contpanevi",
+				"js/views/ContentPane/ContentPaneView.js"
+			],
+			[
+				"courseviewjs",
+				"js/views/Course/CourseView.js"
+			],
+			[
+				"appmode",
+				"js/models/ApplicationModel.js"
+			],
+			[
+				"pages",
+				"js/config/pages.js"
+			],
+			[
+				"worspaceview",
+				"js/views/Workspace/WorkspaceView.js"
+			],
+			[
+				"worksp",
+				"js/models/Workspace/WorkspaceModel.js"
+			],
+			[
+				"actiles",
+				"js/models/ActiveLessons/ActiveLessonsModel.js"
+			],
+			[
+				"globa",
+				"js/models/GlobalUserState/GlobalUserState.js"
+			],
+			[
+				"approuter",
+				"js/app/appRouter.js"
+			],
+			[
+				"icon",
+				"css/icon.css"
+			],
+			[
+				"appvi",
+				"js/views/ApplicationView.js"
+			],
+			[
+				"comemode",
+				"js/models/CometModel/CometModel.js"
+			],
+			[
+				"t2kd",
+				"js/common/data/T2KDal.js"
+			],
+			[
+				"confi",
+				"js/app/config.js"
+			],
+			[
+				"bootstjs",
+				"js/libs/bootstrap/bootstrap.js"
+			],
+			[
+				"associ",
+				"js/views/TeacherLibrary/templates/AssignToClassDialogTemplate.html"
+			],
+			[
+				"workcss",
+				"css/modules/Workspace.css"
+			],
+			[
+				"collaborationitemhtml",
+				"js/views/Workspace/templates/collaborationItem.html"
+			],
+			[
+				"collaborationitem",
+				"js/views/Workspace/Collaboration/CollaborationItem.js"
+			],
+			[
+				"workspacemode",
+				"js/models/Workspace/WorkspaceModel.js"
+			],
+			[
+				"apmodel",
+				"js/models/ApplicationModel.js"
+			],
+			[
+				"toolvi",
+				"js/views/Toolbar/ToolbarView.js"
+			],
+			[
+				"bootsjs",
+				"js/libs/bootstrap/bootstrap.js"
+			],
+			[
+				"worlspac",
+				"js/views/Workspace/templates/workspace.html"
+			],
+			[
+				"workspacev",
+				"js/views/Workspace/WorkspaceView.js"
+			],
+			[
+				"apview",
+				"js/views/ApplicationView.js"
+			],
+			[
+				"wosphtml",
+				"js/views/Workspace/templates/workspace.html"
+			],
+			[
+				"contenttoolbarview",
+				"js/views/ContentToolbar/ContentToolbarView.js"
+			],
+			[
+				"utils",
+				"js/common/utils/utils.js"
+			],
+			[
+				"colview",
+				"js/views/Workspace/Collaboration/CollaborationView.js"
+			],
+			[
+				"worksmode",
+				"js/models/Workspace/WorkspaceModel.js"
+			],
+			[
+				"courview",
+				"js/views/Course/CourseView.js"
+			],
+			[
+				"lessonh",
+				"js/views/CourseNavigation/templates/Lesson.html"
+			],
+			[
+				"works",
+				"js/views/Workspace/WorkspaceView.js"
+			],
+			[
+				"rowvie",
+				"js/views/CourseNavigation/RowView.js"
+			],
+			[
+				"back",
+				"js/libs/backbone/backbone.js"
+			],
+			[
+				"courvie",
+				"js/views/Course/CourseView.js"
+			],
+			[
+				"backb",
+				"js/libs/backbone/backbone.js"
+			],
+			[
+				"basi",
+				"js/libs/davinci/BaseView.js"
+			],
+			[
+				"mesarea",
+				"js/views/Toolbar/MessageArea.js"
+			],
+			[
+				"courseviewhtml",
+				"js/views/Course/templates/CourseView.html"
+			],
+			[
+				"coursvi",
+				"js/views/Course/CourseView.js"
+			],
+			[
+				"dictionarymodel",
+				"js/models/Dictionary/DictionaryModel.js"
+			],
+			[
+				"dict",
+				"js/models/Dictionary/DictionaryModel.js"
+			],
+			[
+				"davinc",
+				"js/libs/davinci/davinci.js"
+			],
+			[
+				"studyclassstatescollection",
+				"js/models/CourseNavigation/StudyClassStatesCollection.js"
+			],
+			[
+				"service",
+				"js/config/services.js"
+			],
+			[
+				"appv",
+				"js/views/ApplicationView.js"
+			],
+			[
+				"courviejs",
+				"js/views/Course/CourseView.js"
+			],
+			[
+				"i",
+				"index.html"
+			],
+			[
+				"dialomde",
+				"js/models/Dialog/DialogModel.js"
+			],
+			[
+				"comnoti",
+				"js/common/providers/CometNotifier.js"
+			],
+			[
+				"cometd",
+				"js/libs/org/cometd.js"
+			],
+			[
+				"contolvi",
+				"js/views/ContentToolbar/ContentToolbarView.js"
+			],
+			[
+				"cometmodel",
+				"js/models/CometModel/CometModel.js"
+			],
+			[
+				"router",
+				"js/app/appRouter.js"
+			],
+			[
+				"modulejs",
+				"js/config/modules.js"
+			],
+			[
+				"text",
+				"js/libs/require/text.js"
+			],
+			[
+				"con",
+				"js/app/config.js"
+			],
+			[
+				"toovi",
+				"js/views/Toolbar/ToolbarView.js"
+			],
+			[
+				"basvie",
+				"js/libs/davinci/BaseView.js"
+			],
+			[
+				"coursmode",
+				"js/models/CourseNavigation/CourseModel.js"
+			],
+			[
+				"unders",
+				"js/libs/underscore/underscore.js"
+			],
+			[
+				"pagevi",
+				"js/views/HomePage/HomePageView.js"
+			],
+			[
+				"applmodel",
+				"js/models/ApplicationModel.js"
+			],
+			[
+				"diction",
+				"js/common/utils/dictionary.js"
+			],
+			[
+				"require",
+				"js/libs/require/require.js"
+			],
+			[
+				"underscore",
+				"js/libs/underscore/underscore.js"
+			],
+			[
+				"indexhtml",
+				"index.html"
+			],
+			[
+				"appview",
+				"js/views/ApplicationView.js"
+			],
+			[
+				"dialo",
+				"js/config/dialogsConfig.js"
+			],
+			[
+				"coursvie",
+				"js/views/Course/CourseView.js"
+			],
+			[
+				"dictiona",
+				"js/common/utils/dictionary.js"
+			],
+			[
+				"courseview",
+				"css/modules/CourseView.css"
+			],
+			[
+				"tableofcontentview",
+				"js/views/ContentPane/TableOfContentView.js"
+			],
+			[
+				"classescollection",
+				"js/models/TeacherPage/ClassesCollection.js"
+			],
+			[
+				"applimode",
+				"js/models/ApplicationModel.js"
+			],
+			[
+				"couritemode",
+				"js/models/CourseNavigation/CourseItemModel.js"
+			],
+			[
+				"courite",
+				"js/models/CourseNavigation/CourseItemCollection.js"
+			],
+			[
+				"tocmodel",
+				"js/models/CourseNavigation/TOCItemModel.js"
+			],
+			[
+				"classcol",
+				"js/models/TeacherPage/ClassesCollection.js"
+			],
+			[
+				"coursenavigationtemplate",
+				"js/views/CourseNavigation/templates/courseNavigationTemplate.html"
+			],
+			[
+				"homepageview",
+				"js/views/HomePage/HomePageView.js"
+			],
+			[
+				"studyc",
+				"js/models/CourseNavigation/StudyClassStateModel.js"
+			],
+			[
+				"toccss",
+				"css/modules/TOC.css"
+			],
+			[
+				"under",
+				"js/libs/underscore/underscore.js"
+			],
+			[
+				"page",
+				"js/config/pages.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"echoe",
+				"/C/oren/GitHub/echoes/echoes.sublime-project"
+			],
+			[
+				"ehco",
+				"/C/oren/GitHub/echoes/echoes.sublime-project"
+			],
+			[
+				"ehcoes",
+				"/C/oren/GitHub/echoes/echoes.sublime-project"
+			],
+			[
+				"",
+				"/C/oren/projects/sublime/Echoes-git.sublime-project"
+			],
+			[
+				"late",
+				"/C/oren/T2K-Projects/student-latest-sublime.sublime-project"
+			],
+			[
+				"studen",
+				"/C/oren/T2K-Projects/student-latest-sublime.sublime-project"
+			],
+			[
+				"stud",
+				"/C/oren/T2K-Projects/student-latest-sublime.sublime-project"
+			],
+			[
+				"scen",
+				"/C/oren/projects/work/orizens.bitbucket.org/scent-player-project.sublime-project"
+			],
+			[
+				"da",
+				"/C/oren/T2K-Projects/DaVinci.sublime-project"
+			],
+			[
+				"dav",
+				"/C/oren/T2K-Projects/DaVinci.sublime-project"
+			],
+			[
+				"ad",
+				"/C/oren/projects/work/adir-web.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true
+}
