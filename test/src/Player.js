@@ -1,1 +1,0 @@
-function e(){}e.prototype.play=function(e){this.currentlyPlayingSong=e,this.isPlaying=!0},e.prototype.pause=function(){this.isPlaying=!1},e.prototype.resume=function(){if(this.isPlaying)throw new Error("song is already playing");this.isPlaying=!0},e.prototype.makeFavorite=function(){this.currentlyPlayingSong.persistFavoriteStatus(!0)}

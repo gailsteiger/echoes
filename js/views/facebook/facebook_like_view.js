@@ -1,0 +1,1 @@
+define(["jquery","underscore","backbone","text!templates/facebook_like_tag.html"],function(e,t,n,r){var i=n.View.extend({el:"#facebook-like",template:t.template(r),initialize:function(){this.listenTo(this.model,"change:mediaId",this.render)},render:function(){return this.$el.html(this.template({url:location.href})),FB&&FB.XFBML.parse(this.el),this}});return i})
